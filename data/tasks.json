@@ -1,0 +1,128 @@
+[
+     {
+          "name":"Incorporate reviewers remark",
+          "descr": "Go over and and reviewers remark",
+          "priority": 6,
+      	"estimation" : 10,
+      	"done" : false
+ 	},
+ 	{
+          "name": "Initial Exam/Quiz Screen with Restart /Continue as a Pop-up Message",
+          "descr": " For the normal initial screen, note the change to have the message in blue text appear below (instead of above the Close Window & the Start buttons) ",
+          "priority": 5,
+      	 "estimation" : 15,
+      	 "done" : false
+ 	},
+ 	{
+     "name": "Quiz Management Screen modifications",
+     "descr": "Hide the Reports option button (beside Actions) (do we need this?)",
+     "priority": 2,
+ 	 "estimation" : 6,
+ 	 "done" : true
+ 	},
+ 	{
+     "name": "Question Pool Improvements",
+     "descr": "Hide Type/ Question Type/ Category (Do we need these?)",
+     "priority": 9,
+ 	 "estimation" : 12,
+ 	 "done" : false
+ 	},
+ 	{
+     "name": "Question screen improvements",
+     "descr": "Change tab order and change the name accordingly. Old name in parenthesis",
+     "priority": 10,
+ 	 "estimation" : 20,
+ 	 "done" : false
+ 	},
+ 	{
+     "name": "Report screen improvements",
+     "descr": "Assign unique ID to quiz that is viewable on My Details tab of student and Teacher Reports screen so they can be sure to delete correct report upon request of student",
+     "priority": 12,
+ 	 "estimation" : 26,
+ 	 "done" : true
+ 	},
+  {
+          "name":"Incorporate reviewers remark",
+          "descr": "Go over and and reviewers remark",
+          "priority": 6,
+        "estimation" : 10,
+        "done" : false
+  },
+  {
+          "name": "Initial Exam/Quiz Screen with Restart /Continue as a Pop-up Message",
+          "descr": " For the normal initial screen, note the change to have the message in blue text appear below (instead of above the Close Window & the Start buttons) ",
+          "priority": 5,
+         "estimation" : 15,
+         "done" : false
+  },
+  {
+     "name": "Quiz Management Screen modifications",
+     "descr": "Hide the Reports option button (beside Actions) (do we need this?)",
+     "priority": 2,
+   "estimation" : 6,
+   "done" : true
+  },
+  {
+     "name": "Question Pool Improvements",
+     "descr": "Hide Type/ Question Type/ Category (Do we need these?)",
+     "priority": 9,
+   "estimation" : 12,
+   "done" : false
+  },
+  {
+     "name": "Question screen improvements",
+     "descr": "Change tab order and change the name accordingly. Old name in parenthesis",
+     "priority": 10,
+   "estimation" : 20,
+   "done" : false
+  },
+  {
+     "name": "Report screen improvements",
+     "descr": "Assign unique ID to quiz that is viewable on My Details tab of student and Teacher Reports screen so they can be sure to delete correct report upon request of student",
+     "priority": 12,
+   "estimation" : 26,
+   "done" : true
+  },
+  {
+          "name":"Incorporate reviewers remark",
+          "descr": "Go over and and reviewers remark",
+          "priority": 6,
+        "estimation" : 10,
+        "done" : false
+  },
+  {
+          "name": "Initial Exam/Quiz Screen with Restart /Continue as a Pop-up Message",
+          "descr": " For the normal initial screen, note the change to have the message in blue text appear below (instead of above the Close Window & the Start buttons) ",
+          "priority": 5,
+         "estimation" : 15,
+         "done" : false
+  },
+  {
+     "name": "Quiz Management Screen modifications",
+     "descr": "Hide the Reports option button (beside Actions) (do we need this?)",
+     "priority": 2,
+   "estimation" : 6,
+   "done" : true
+  },
+  {
+     "name": "Question Pool Improvements",
+     "descr": "Hide Type/ Question Type/ Category (Do we need these?)",
+     "priority": 9,
+   "estimation" : 12,
+   "done" : false
+  },
+  {
+     "name": "Question screen improvements",
+     "descr": "Change tab order and change the name accordingly. Old name in parenthesis",
+     "priority": 10,
+   "estimation" : 20,
+   "done" : false
+  },
+  {
+     "name": "Report screen improvements",
+     "descr": "Assign unique ID to quiz that is viewable on My Details tab of student and Teacher Reports screen so they can be sure to delete correct report upon request of student",
+     "priority": 12,
+   "estimation" : 26,
+   "done" : true
+  }
+]
