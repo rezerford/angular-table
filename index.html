@@ -22,20 +22,21 @@
 <body ng-controller="TaskListCtrl">
 <div class="container-fluid">
   <div class="row">
-    <div class="well">
-      <!--Sidebar content-->
-	  <div class="pull-left">
-      	Search: <input ng-model="criteria" ng-keydown="changePagination()" size="35">
-      </div>
-      <div class="pull-right">
-      	Display:
-      	<select ng-model="pageSize" ng-change="selectDisplay()">
-			<option ng-repeat="itemsAmount in [5,10,15,20,25,30,35,40,45,50,100]" value="{{itemsAmount}}" ng-selected="pageSize === itemsAmount">{{itemsAmount}}</option>
-      	</select>
-      </div>
-      <div style="clear:both"><br/></div>
-    </div>
-
+  	<form class="form-inline">
+	    <div class="well">
+	      <!--Sidebar content-->
+		  <div class="pull-left">
+	      	Search: <input ng-model="criteria" ng-keydown="changePagination()" size="35" class="form-control">
+	      </div>
+	      <div class="pull-right">
+	      	Display:
+	      	<select ng-model="pageSize" ng-change="selectDisplay()" class="form-control">
+				<option ng-repeat="itemsAmount in [5,10,15,20,25,30,35,40,45,50,100]" value="{{itemsAmount}}" ng-selected="pageSize === itemsAmount">{{itemsAmount}}</option>
+	      	</select>
+	      </div>
+	      <div style="clear:both"><br/></div>
+	    </div>
+	</form>
     <div>
       <!--Body content-->
 		<table class="table table-bordered table-striped">
